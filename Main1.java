@@ -2,7 +2,6 @@ import org.json.JSONObject;
 import org.json.JSONTokener;
 import java.io.FileReader;
 import java.util.HashMap;
-import java.math.BigInteger;
 
 public class Main1 {
     public static void main(String[] args) {
@@ -51,7 +50,6 @@ public class Main1 {
         }
     }
     
-    }
 
     // Updated Lagrange Interpolation Method using BigInteger
     // Add this method inside the Main class
